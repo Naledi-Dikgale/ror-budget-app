@@ -131,7 +131,7 @@ To run tests, run the following command:
  
 - GitHub: [@githubhandle](https://github.com/Naledi-Dikgale)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/naledi-dikgale-068423159/)
-- Website: [@Naledi](https://nalediportfolio.netlify.app/)
+- Website: [@Naledi](https://naledi.netlify.app/)
 
 👤 **Author2**
   *[Lugard Agu]*
